@@ -6,18 +6,21 @@
 - [ ] compile contract with new implementation into Golang
 - [ ] update server to match the parameters with new contract
 
-
 -----
 
 ## To investigate
+- must see the gas used inside the optimism of this new contract
 
 -----
 
 ## Learned today
+- there is hidden gas used in optimism because of Canonical Trasaction Chain + State Commitment Chain
 
 -----
 
 ## Done today
+- [X] compile contract with new implementation into Golang
+- [X] update server to match the parameters with new contract
 
 -----
 
