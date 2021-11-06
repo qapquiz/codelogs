@@ -25,6 +25,12 @@
 
 -----
 
+## Resource list
+- GraphQL Cursor Connections Specification -> https://relay.dev/graphql/connections.htm
+- Prisma Pagination -> https://www.prisma.io/docs/concepts/components/prisma-client/pagination
+
+-----
+
 # Codelog #2 - 2021-07-13
 
 -----
