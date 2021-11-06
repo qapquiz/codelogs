@@ -1,3 +1,27 @@
+# Codelog #4 - 2021-11-xx
+
+-----
+
+## Plan for the day
+
+-----
+
+## To investigate
+
+-----
+
+## Learned today
+
+-----
+
+## Done today
+
+-----
+
+## Resource list
+
+-----
+
 # Codelog #3 - 2021-11-05
 
 -----
