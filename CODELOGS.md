@@ -1,4 +1,31 @@
-# Codelog #1 - 2021-07-13
+# Codelog #3 - 2021-11-05
+
+-----
+
+## Plan for the day
+- [ ] fix: unnecessary sql condition in getSubscriptions
+- [ ] feat: write some template for batch job for minting the tokens
+
+-----
+
+## To investigate
+- find to way to check is this transaction already minted or not
+
+-----
+
+## Learned today
+- cannot find the way to tracking minted yet
+- if you want the monad to tracking all error step it should come with applicative
+
+-----
+
+## Done today
+- [X] fix: unnecessary sql condition in getSubscriptions
+- [X] feat: write some template for batch job for minting the tokens
+
+-----
+
+# Codelog #2 - 2021-07-13
 
 -----
 
@@ -29,6 +56,8 @@
 -----
 
 ## Resource list
+
+-----
 
 # Codelog #1 - 2021-07-12
 
